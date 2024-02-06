@@ -1,0 +1,13 @@
+.EightBall {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
+    display: table-cell;
+    overflow: hidden;
+    vertical-align:middle;
+}
+
+.Answer {
+    color: white;
+}
